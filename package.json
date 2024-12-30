@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "NextGraph React Package",
   "main": "index.js",
-  "repository": "git@github.com:nextpwa/react.git",
-  "author": "NextCart Commerce",
+  "repository": "git@github.com:nextgraphio/nextgraph.git",
+  "author": "NextGraph Commerce",
   "license": "MIT",
   "sideEffects": false,
   "eslintConfig": {
